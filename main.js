@@ -6,26 +6,29 @@ import { isFileEmpty } from './helpers/file.js';
 import { logMap } from './logs/log_map.js'
 
 const Main = () => {
+    console.log("--- Starting Activity Tracker ---");
     //File listener
     //Set up log csv if it hasn't already been
-    isFileEmpty(logMap['file']) && writeHeaders('files')
+    isFileEmpty(logMap['file']) && writeHeaders('files');
     // Begin Watching files
+    console.log("* Spinning up File Listener *");
     FileListener();
 
     //Process listener
     //Set up log csv if it hasn't already been
-    isFileEmpty(logMap['process']) && writeHeaders('processes')
+    isFileEmpty(logMap['process']) && writeHeaders('processes');
     // Begin watching procesess 
+    console.log("* Spinning up process Listener *");
     ProcessListener();
 
     //Network listener
     //Set up log csv if it hasn't already been
-    isFileEmpty(logMap['connection']) && writeHeaders('connection')
+    isFileEmpty(logMap['connection']) && writeHeaders('connection');
     // Begin watching connections
+    console.log("* Spinning up Connection Listener *");
     ConnectionListener();
-}
 
-// Things to still do
-// filter process only on start and end of them 2f
+    console.log("* All listeners are running *");
+}
 
 Main();

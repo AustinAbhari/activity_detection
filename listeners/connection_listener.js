@@ -16,7 +16,7 @@ export const ConnectionListener = () => {
     });
 
     pcap_session.on('packet', function (raw_packet) {
-        var packet = pcap.decode.packet(raw_packet);
+        const packet = pcap.decode.packet(raw_packet);
         tcp_tracker.track_packet(packet);
     });
 }
