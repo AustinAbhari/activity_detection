@@ -7,12 +7,6 @@ import { logMap } from './logs/log_map.js'
 
 const Main = () => {
     console.log("--- Starting Activity Tracker ---");
-    //File listener
-    //Set up log csv if it hasn't already been
-    isFileEmpty(logMap['file']) && writeHeaders('files');
-    // Begin Watching files
-    console.log("* Spinning up File Listener *");
-    FileListener();
 
     //Process listener
     //Set up log csv if it hasn't already been
@@ -21,6 +15,14 @@ const Main = () => {
     console.log("* Spinning up process Listener *");
     ProcessListener();
 
+    isFileEmpty(logMap['file']) && writeHeaders('files');
+    //File listener
+    //Set up log csv if it hasn't already been
+
+    // Begin Watching files
+    console.log("* Spinning up File Listener *");
+    FileListener();
+
     //Network listener
     //Set up log csv if it hasn't already been
     isFileEmpty(logMap['connection']) && writeHeaders('connection');
@@ -28,7 +30,7 @@ const Main = () => {
     console.log("* Spinning up Connection Listener *");
     ConnectionListener();
 
-    console.log("* All listeners are running *");
+    console.log(" == All listeners are running == ");
 }
 
 Main();

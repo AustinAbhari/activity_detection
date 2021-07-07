@@ -11,9 +11,10 @@ export const FileListener = async () => {
         ignored: '*.csv',
         interval: 100,
         ignoreInitial: true,
-        cmd: '/Users'
+        // to change to directory use `cwd: '<directory>'`
     }
 
+    // start up the file watcher
     const listening = chokidar.watch('.', listenerParams).on('all', (event, filePath) => {
         if (path.extname(filePath) == '.csv') return;
         fs.stat(filePath, async (err, stats) => {
@@ -22,12 +23,14 @@ export const FileListener = async () => {
                 return;
             }
             const now = new Date()
+            // find the process that did the file event
             const process = await getProcessFromTime(now)
-            const data = `${now},${filePath},${event},${process[0]?.['Username']},${process[0]?.['Process Command Line']},${process[0]?.['Process ID']}`
+            const data = `${now},${filePath},${event},${process[0]?.['Username'] || 'N/A'},${process[0]?.['Process Command Line'] || 'N/A'},${process[0]?.['Process ID'] || 'N/A'}`
             logHandler(logMap['file'], data)
         })
     });
 
+    // make sure the to not watch the csvs so that we don't get an infinite loop when writing to the logs
     await listening.unwatch('node_modules/*', '*.csv');
 }
 

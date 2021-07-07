@@ -22,7 +22,8 @@ To track the process that are running on the device we are going to use a npm pa
 
 #### File Listener
 
-To watch files files in a direction we are going to use the library (chokidar)[https://www.npmjs.com/package/chokidar] which is a library build to improve off of the `fs` function `watch()`. Once initiallized, chokidar will look for all events happening to the files (add, delete, modify). When an event occures we use `fs.stat` to get more file information. Afterwards find the processes that was created within the most relevent time frame to when the file was changed. Then log relevent information to `logs/file_log.csv`.
+To watch files files in a direction we are going to use the library [chokidar](https://www.npmjs.com/package/chokidar) which is a library build to improve off of the `fs` function `watch()`. Once initiallized, chokidar will look for all events happening to the files (add, delete, modify). When an event occures we use `fs.stat` to get more file information. Afterwards find the processes that was created within the most relevent time frame to when the file was changed. Then log relevent information to `logs/file_log.csv`.
+
 
 ## Installation 
 
@@ -32,7 +33,10 @@ Install the packages with `npm install`
 
 ## Starting up the app
 
-`node main.js`
+To spin up the app use `node main.js` which will make sure the logs have the correct headers then call to each of the listeners to start them up. 
+
+## Potential Issues
+Since there was limited resources that I could find for true monitoring of processes using node packages, the interval might miss a process that had started and terminated within 300ms. So there is a potential an event might have been missed in that threshold. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

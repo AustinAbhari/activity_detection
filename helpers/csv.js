@@ -26,12 +26,13 @@ export const getProcessFromTime = async (date, varience = 10000, file = logMap['
             .on('data', (data) => {
                 const procTime = getTime(data['Timestamp'])
                 const inputTime = getTime(date)
+
+                //find processes from the logs are within now and the varience
                 if (inputTime > procTime - 1 && inputTime < procTime + varience) {
                     results.push(data)
                 }
             })
             .on('end', () => {
-                console.log(results.length);
                 resolve(results)
             })
     })
@@ -57,5 +58,4 @@ export const writeHeaders = (type) => {
     }
 
     writeToFileStream(mapHeaders[type].file, mapHeaders[type].headers)
-}
-
+};
