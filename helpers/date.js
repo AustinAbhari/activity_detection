@@ -1,0 +1,1 @@
+export const getTime = (d) => new Date(d).getTime();

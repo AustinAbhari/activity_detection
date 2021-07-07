@@ -1,0 +1,32 @@
+{
+  "name": "red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chokidar": "^3.5.2",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "events": "^3.3.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^10.0.0",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "net": "^1.0.2",
+    "node-cmd": "^4.0.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "pcap": "^3.1.0",
+    "prettier": "^2.3.2",
+    "process": "^0.11.10",
+    "ps-list": "^7.2.0",
+    "systeminformation": "^5.7.7"
+  }
+}

@@ -1,0 +1,30 @@
+Timestamp,Username,Destination address and port,Source address and port,Amount of data sent,Protocol of data sent,Process name,Process command line,Process ID
+Wed Jul 07 2021 01:08:43 GMT-0600 (Mountain Daylight Time), undefined, 192.168.0.12:8009, 192.168.0.9:57091, 64, tcp, undefined, undefined
+Wed Jul 07 2021 01:08:50 GMT-0600 (Mountain Daylight Time), austin, 192.168.0.9:62978, 152.199.4.33:443, 32, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:08:51 GMT-0600 (Mountain Daylight Time), austin, 64.4.54.254:443, 192.168.0.9:63000, 44, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:08:51 GMT-0600 (Mountain Daylight Time), austin, 10.0.0.193:7000, 192.168.0.9:63001, 44, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:08:54 GMT-0600 (Mountain Daylight Time), austin, 142.250.72.35:443, 192.168.0.9:62995, 20, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:09:06 GMT-0600 (Mountain Daylight Time), austin, 64.4.54.254:443, 192.168.0.9:63002, 44, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:09:09 GMT-0600 (Mountain Daylight Time), austin, 142.250.72.67:443, 192.168.0.9:62997, 20, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:09:19 GMT-0600 (Mountain Daylight Time), austin, 172.217.212.188:5228, 192.168.0.9:57056, 20, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:09:21 GMT-0600 (Mountain Daylight Time), austin, 64.4.54.254:443, 192.168.0.9:63003, 44, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:09:24 GMT-0600 (Mountain Daylight Time), austin, 142.250.72.67:443, 192.168.0.9:62999, 20, tcp, Google Chrome Helper, 50132
+Wed Jul 07 2021 01:10:40 GMT-0600 (Mountain Daylight Time), undefined, 142.250.72.67:443, 192.168.0.9:62997, 20, tcp, undefined, undefined
+Wed Jul 07 2021 01:10:44 GMT-0600 (Mountain Daylight Time), undefined, 192.168.0.12:8009, 192.168.0.9:57091, 64, tcp, undefined, undefined
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time), _windowserver, 64.4.54.254:443, 192.168.0.9:63012, 44, tcp, WindowServer, 542
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time), _windowserver, 64.4.54.254:443, 192.168.0.9:63013, 44, tcp, WindowServer, 542
+Wed Jul 07 2021 01:10:49 GMT-0600 (Mountain Daylight Time), austin, 172.217.212.188:5228, 192.168.0.9:57056, 20, tcp, Electron, 16859
+Wed Jul 07 2021 01:10:54 GMT-0600 (Mountain Daylight Time), root, 142.250.72.67:443, 192.168.0.9:62999, 20, tcp, TouchBarServer, 499
+Wed Jul 07 2021 01:10:56 GMT-0600 (Mountain Daylight Time), undefined, 17.57.144.100:5223, 192.168.0.9:56346, 32, tcp, undefined, undefined
+Wed Jul 07 2021 01:10:58 GMT-0600 (Mountain Daylight Time), austin, 10.0.0.193:7000, 192.168.0.9:63014, 44, tcp, Code Helper (Renderer), 17117
+Wed Jul 07 2021 01:10:59 GMT-0600 (Mountain Daylight Time), undefined, 209.85.145.108:993, 192.168.0.9:62838, 32, tcp, undefined, undefined
+Wed Jul 07 2021 01:10:59 GMT-0600 (Mountain Daylight Time), undefined, 173.194.194.109:993, 192.168.0.9:62835, 32, tcp, undefined, undefined
+Wed Jul 07 2021 01:10:59 GMT-0600 (Mountain Daylight Time), undefined, 173.194.194.109:993, 192.168.0.9:62836, 32, tcp, undefined, undefined
+Wed Jul 07 2021 01:10:59 GMT-0600 (Mountain Daylight Time), undefined, 172.217.219.108:993, 192.168.0.9:63017, 44, tcp, undefined, undefined
+Wed Jul 07 2021 01:10:59 GMT-0600 (Mountain Daylight Time), undefined, 172.217.219.108:993, 192.168.0.9:63016, 44, tcp, undefined, undefined
+Wed Jul 07 2021 01:10:59 GMT-0600 (Mountain Daylight Time), undefined, 172.217.219.108:993, 192.168.0.9:63015, 44, tcp, undefined, undefined
+Wed Jul 07 2021 01:11:02 GMT-0600 (Mountain Daylight Time), undefined, 64.4.54.254:443, 192.168.0.9:63018, 44, tcp, undefined, undefined
+Wed Jul 07 2021 01:11:08 GMT-0600 (Mountain Daylight Time), undefined, 17.57.12.11:443, 192.168.0.9:63019, 44, tcp, undefined, undefined
+Wed Jul 07 2021 01:11:10 GMT-0600 (Mountain Daylight Time), undefined, 142.250.72.35:443, 192.168.0.9:62995, 20, tcp, undefined, undefined
+Wed Jul 07 2021 01:11:13 GMT-0600 (Mountain Daylight Time), undefined, 17.253.23.207:443, 192.168.0.9:63007, 64, tcp, undefined, undefined
+Wed Jul 07 2021 01:11:18 GMT-0600 (Mountain Daylight Time), undefined, 64.4.54.254:443, 192.168.0.9:63020, 44, tcp, undefined, undefined

@@ -1,0 +1,130 @@
+Timestamp,Username,Process Name,Process Command Line,Process ID
+Wed Jul 07 2021 01:08:48 GMT-0600 (Mountain Daylight Time),austin,Google Chrome Helper,Google Chrome Helper,50132
+Wed Jul 07 2021 01:08:49 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:08:49 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:09:00 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:01 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:02 GMT-0600 (Mountain Daylight Time),austin,node main.js,node main.js,85464
+Wed Jul 07 2021 01:09:03 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:05 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:10 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:10 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Electron,Electron,16859
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),root,RTProtectionDaemon,RTProtectionDaemon,6149
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,AdobeCRDaemon 1491 Creative Cloud Helper 5.4.3,AdobeCRDaemon 1491 Creative Cloud Helper 5.4.3,1493
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,AdobeCRDaemon 1453 Adobe Desktop Service 5.4.3,AdobeCRDaemon 1453 Adobe Desktop Service 5.4.3,1480
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,AdobeCRDaemon 1469 Creative Cloud Helper 5.4.3,AdobeCRDaemon 1469 Creative Cloud Helper 5.4.3,1472
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,AdobeCRDaemon 1395 Creative Cloud 5.4,AdobeCRDaemon 1395 Creative Cloud 5.4,1456
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,SafariBookmarksSyncAgent,SafariBookmarksSyncAgent,1175
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),root,(ps),(ps),85650
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Creative Cloud,Creative Cloud,1395
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),root,runningboardd,runningboardd,454
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),root,RTProtectionDaemon,RTProtectionDaemon,6149
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Finder,Finder,1308
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Mail,Mail,55699
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,photoanalysisd,photoanalysisd,27896
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Adobe Desktop Service,Adobe Desktop Service,1453
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,cloudphotod,cloudphotod,1451
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,amsaccountsd,amsaccountsd,1397
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,cloudpaird,cloudpaird,1393
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,redis-server,redis-server,1379
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,AMPArtworkAgent,AMPArtworkAgent,1365
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),_applepay,seld,seld,1260
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,AMPLibraryAgent,AMPLibraryAgent,1250
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,AssetCacheLocatorService,AssetCacheLocatorService,1246
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,fmfd,fmfd,1236
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,IMRemoteURLConnectionAgent,IMRemoteURLConnectionAgent,1220
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,useractivityd,useractivityd,1217
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,com.apple.geod,com.apple.geod,1212
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,familycircled,familycircled,1185
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,assistantd,assistantd,1179
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,accountsd,accountsd,1166
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,com.apple.sbd,com.apple.sbd,1124
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),root,notifyd,notifyd,191
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),root,mds,mds,148
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),root,logd,logd,139
+Wed Jul 07 2021 01:09:11 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:09:14 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:14 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
+Wed Jul 07 2021 01:09:14 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:20 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:09:21 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
+Wed Jul 07 2021 01:09:22 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:10:40 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:10:46 GMT-0600 (Mountain Daylight Time),austin,Electron,Electron,16859
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),austin,akd,akd,1210
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),austin,ViewBridgeAuxiliary,ViewBridgeAuxiliary,1167
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),austin,EmojiFunctionRowIM_Extension,EmojiFunctionRowIM_Extension,1143
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),root,contextstored,contextstored,238
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),austin,diagnostics_agent,diagnostics_agent,1269
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),austin,useractivityd,useractivityd,1217
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),root,TouchBarServer,TouchBarServer,499
+Wed Jul 07 2021 01:10:47 GMT-0600 (Mountain Daylight Time),root,launchservicesd,launchservicesd,162
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,Electron,Electron,16859
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),root,contextstored,contextstored,238
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,ViewBridgeAuxiliary,ViewBridgeAuxiliary,1167
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),root,runningboardd,runningboardd,454
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),root,SettingsDaemon,SettingsDaemon,6164
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),root,RTProtectionDaemon,RTProtectionDaemon,6149
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,appstoreagent,appstoreagent,1625
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,AdobeCRDaemon 1491 Creative Cloud Helper 5.4.3,AdobeCRDaemon 1491 Creative Cloud Helper 5.4.3,1493
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,AdobeCRDaemon 1453 Adobe Desktop Service 5.4.3,AdobeCRDaemon 1453 Adobe Desktop Service 5.4.3,1480
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,AdobeCRDaemon 1469 Creative Cloud Helper 5.4.3,AdobeCRDaemon 1469 Creative Cloud Helper 5.4.3,1472
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,AdobeCRDaemon 1395 Creative Cloud 5.4,AdobeCRDaemon 1395 Creative Cloud 5.4,1456
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,redis-server,redis-server,1379
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,Finder,Finder,1308
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,diagnostics_agent,diagnostics_agent,1269
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,mapspushd,mapspushd,1190
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),_mdnsresponder,mDNSResponder,mDNSResponder,251
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),root,dasd,dasd,176
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),root,mds,mds,148
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),root,logd,logd,139
+Wed Jul 07 2021 01:10:48 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
+Wed Jul 07 2021 01:10:49 GMT-0600 (Mountain Daylight Time),austin,Electron,Electron,16859
+Wed Jul 07 2021 01:10:51 GMT-0600 (Mountain Daylight Time),austin,Electron,Electron,16859
+Wed Jul 07 2021 01:10:51 GMT-0600 (Mountain Daylight Time),austin,Code Helper (GPU),Code Helper (GPU),16862
+Wed Jul 07 2021 01:10:51 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
+Wed Jul 07 2021 01:10:52 GMT-0600 (Mountain Daylight Time),austin,Code Helper (GPU),Code Helper (GPU),16862
+Wed Jul 07 2021 01:10:52 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:10:53 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:10:53 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:10:53 GMT-0600 (Mountain Daylight Time),austin,Google Chrome Helper (Renderer),Google Chrome Helper (Renderer),85858
+Wed Jul 07 2021 01:10:53 GMT-0600 (Mountain Daylight Time),root,mds,mds,148
+Wed Jul 07 2021 01:10:54 GMT-0600 (Mountain Daylight Time),root,TouchBarServer,TouchBarServer,499
+Wed Jul 07 2021 01:10:55 GMT-0600 (Mountain Daylight Time),root,sandboxd,sandboxd,79314
+Wed Jul 07 2021 01:10:57 GMT-0600 (Mountain Daylight Time),austin,node main.js,node main.js,85764
+Wed Jul 07 2021 01:10:57 GMT-0600 (Mountain Daylight Time),austin,Google Chrome,Google Chrome,50118
+Wed Jul 07 2021 01:10:57 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:10:58 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:10:58 GMT-0600 (Mountain Daylight Time),austin,postgres: walwriter,postgres: walwriter,1426
+Wed Jul 07 2021 01:10:58 GMT-0600 (Mountain Daylight Time),root,logd,logd,139
+Wed Jul 07 2021 01:10:58 GMT-0600 (Mountain Daylight Time),root,RTProtectionDaemon,RTProtectionDaemon,6149
+Wed Jul 07 2021 01:10:58 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
+Wed Jul 07 2021 01:10:58 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:10:58 GMT-0600 (Mountain Daylight Time),austin,node main.js,node main.js,85764
+Wed Jul 07 2021 01:11:00 GMT-0600 (Mountain Daylight Time),austin,Mail,Mail,55699
+Wed Jul 07 2021 01:11:00 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:11:00 GMT-0600 (Mountain Daylight Time),austin,Code Helper (GPU),Code Helper (GPU),16862
+Wed Jul 07 2021 01:11:00 GMT-0600 (Mountain Daylight Time),root,logd,logd,139
+Wed Jul 07 2021 01:11:04 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17169
+Wed Jul 07 2021 01:11:04 GMT-0600 (Mountain Daylight Time),root,RTProtectionDaemon,RTProtectionDaemon,6149
+Wed Jul 07 2021 01:11:04 GMT-0600 (Mountain Daylight Time),austin,amsaccountsd,amsaccountsd,1397
+Wed Jul 07 2021 01:11:04 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17177
+Wed Jul 07 2021 01:11:04 GMT-0600 (Mountain Daylight Time),_hidd,hidd,hidd,187
+Wed Jul 07 2021 01:11:04 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),17117
+Wed Jul 07 2021 01:11:04 GMT-0600 (Mountain Daylight Time),austin,Code Helper (Renderer),Code Helper (Renderer),16933
+Wed Jul 07 2021 01:11:05 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:11:05 GMT-0600 (Mountain Daylight Time),root,launchservicesd,launchservicesd,162
+Wed Jul 07 2021 01:11:17 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:11:18 GMT-0600 (Mountain Daylight Time),root,sandboxd,sandboxd,79314
+Wed Jul 07 2021 01:11:21 GMT-0600 (Mountain Daylight Time),_windowserver,WindowServer,WindowServer,542
+Wed Jul 07 2021 01:11:24 GMT-0600 (Mountain Daylight Time),austin,Terminal,Terminal,65772
